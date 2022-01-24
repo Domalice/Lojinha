@@ -1,4 +1,4 @@
-# https://domalice.github.io/lojinha/
+# https://domalice.github.io/Lojinha/
 
 ## Linguagens utilizadas:
 * HTML
